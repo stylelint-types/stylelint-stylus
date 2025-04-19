@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/stylelint-types/stylelint-stylus/compare/v1.0.0...v1.0.1) (2025-04-19)
+
+
+### Performance Improvements
+
+* update deps to latest ([967c763](https://github.com/stylelint-types/stylelint-stylus/commit/967c7630034dd04b68832cf1d982e5bcb769ffdb))
+
+
+
 # 1.0.0 (2023-12-13)
 
 
